@@ -1,1 +1,2 @@
-# Greedy-algorithm.-Dynamic-programming
+# Greedy-algorithm. Dynamic-programming
+# Олимпиадные задачи
